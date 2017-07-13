@@ -1,0 +1,17 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+
+  },
+  "keywords": [],
+  "author": "raul.requero@vizzuality.com",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "stampery": "^6.0.2"
+  }
+}
